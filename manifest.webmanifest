@@ -1,8 +1,8 @@
 {
  "name": "AXIS · Staff Manu Torres",
  "short_name": "AXIS Staff",
- "start_url": "/cerebro-axis/",
- "scope": "/cerebro-axis/",
+ "start_url": "/",
+ "scope": "/",
  "display": "standalone",
  "background_color": "#03050B",
  "theme_color": "#03050B",
